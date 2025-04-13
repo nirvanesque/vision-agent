@@ -16,6 +16,7 @@ VisionAgent is a library that helps you utilize agent frameworks to generate cod
 solve your vision task. Check out our discord for updates and roadmaps! The fastest
 way to test out VisionAgent is to use our web application which you can find [here](https://va.landing.ai/).
 
+This version is before sync of 13/04/2025 with root repository
 ## Installation
 ```bash
 pip install vision-agent
